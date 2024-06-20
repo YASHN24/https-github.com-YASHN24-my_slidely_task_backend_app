@@ -1,9 +1,9 @@
-**To run the backend server locally, follow these steps: **
-
+****To run the backend server locally, follow these steps: **
+**
 Clone the repository:
 '''
-git clone https://github.com/yourusername/backend-server.git
-cd backend-server
+git clone https://github.com/YASHN24/my_slidely_task_backend_app.git
+cd form-submissions-backend
 '''
 
 Install dependencies:
